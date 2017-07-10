@@ -1,5 +1,3 @@
 ---
-layout: default
+layout: index
 ---
-
-# This is a test
