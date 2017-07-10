@@ -1,0 +1,12 @@
+#Content {
+  text-align: left;
+}
+
+#Header {
+  color: #00cc00;
+}
+
+hr.style3 {
+  color: #00cc00;
+  border-color: inherit
+}

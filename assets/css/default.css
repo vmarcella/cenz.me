@@ -1,0 +1,23 @@
+@font-face {
+	font-family: 'fonter';
+	src: url('/../assets/fonts/Hack.woff');
+}
+
+body {
+	color: #00cc00;
+	background-color: black;
+	text-align: center;
+	font-family:'fonter';
+}
+
+#directory_title{
+	display:inline-block;
+}
+
+#blinker{
+	display:inline-block;
+}
+
+#return {
+	text-align: center;
+}
