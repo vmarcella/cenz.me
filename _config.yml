@@ -1,3 +1,6 @@
 title: cenz.me
-description: My personal blog
-theme: jekyll-theme-hacker
+description: My personal blog about programming
+github_username: C3NZ
+twitter_username: xC3NZ
+markdown: kramdown
+highlighter: rouge
