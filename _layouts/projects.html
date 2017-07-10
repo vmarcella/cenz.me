@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>projects</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="{{site.url}}/assets/bootstrap/dist/css/bootstrap.min.css">
+  <script src=".{{site.url}}/assets/bootstrap/dist/jquery.min.js"></script>
+  <script src="{{site.url}}/assets/bootstrap/dist/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="shortcut icon" href="{{site.url}}/assets/img/favicon.ico">
+
+  <link rel="stylesheet" type="text/css" href="{{site.url}}/assets/css/default.css">
+  <link rel="stylesheet" type="text/css" href="{{site.url}}/assets/css/templates/css/default_directory.css">
+
+  <!-- Function to make the text after Cenz.me blink -->
+  <script type="text/javascript">
+    setInterval(function(){
+      $('#blinker').each(function(){
+        $(this).css('visibility' , $(this).css('visibility') === 'hidden' ? '' : 'hidden')
+      });
+    }, 500);
+  </script>
+
+  <!--Function to make the page header type out slowly -->
+  <script src="{{site.url}}/assets/js/typed.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', function(){
+      Typed.new('#directory_title', {
+        strings: ["^500 cd projects/"],
+        typeSpeed: 100,
+        showCursor: false
+      });
+    });
+  </script>
+
+</head>
+
+<body>
+ <div class="container-fluid" id="main">
+  <div class="col-xs-12 col-sm-6 col-lg-6 col-md-6 col-md-offset-3 col-lg-offset-3 col-sm-offset-3">
+  <h1>><div id="directory_title"></div><div id="blinker">|</div></h1>
+  <br>
+    <p id="file_section"><span>Files</span><br>----------------------<br>
+    <p><i>such empty for now :(</i></p>
+    ----------------------
+    </p>
+    <a href="{{site.url}}/index.html" id="return">home/</a>&emsp;
+    <a href="{{site.url}}/logs.html" id="return">logs/</a>
+    <br>
+    <a href="{{site.url}}/projects.html" id="return">projects/</a>&emsp;
+    <a href="{{site.url}}/games.html" id="return">games/</a>
+  </div>
+ </div>
+</body>
+</html>
