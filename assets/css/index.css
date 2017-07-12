@@ -11,6 +11,15 @@
 	font-size: 1.85em;
 }
 
+#Contact_Icon {
+	color:#00cc00;
+	font-size: 1.85em;
+}
+
+#Contact_Icon:hover {
+	color: #00ff00;
+}
+
 #cenzme{
 	display:inline-block;
 }

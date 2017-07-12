@@ -11,6 +11,7 @@ permalink: /logs/introduction.html
 <h1 style="text-align: center;">Introduction</h1>
 <div style="text-align: center;">----------------------</div><br>
 Welcome to my blog! This is just a test post that will contain nothing important and is just being used as a template
+
 ### *Random code:*
 ```python
 def add_numbers(a, b):
