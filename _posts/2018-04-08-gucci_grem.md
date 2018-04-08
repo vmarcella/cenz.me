@@ -8,9 +8,6 @@ category: etc
 permalink: /etc/gucci_grem.html
 ---
 
-<h1 style="text-align: center;">Gucci_grem, the up and coming Fortnite god</h1>
-<div style="text-align: center;">----------------------</div><br>
-
 If you're a sports fan, then you most likely have heard the term, "The G.O.A.T." thrown around to describe athletes with exceptional talent & skill. But what exactly does "The G.O.A.T" mean and why is it relevant to this article?
 
 When we refer to someone as the G.O.A.T., we aren't talking about the animal, rather the *greatest of all time*. The reason I bring up this term up is because we might be lucky and privileged enough to get to witness one in the notorious videogame, *Fortnite*.
