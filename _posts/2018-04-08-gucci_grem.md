@@ -18,9 +18,9 @@ Gucci_grem has been playing Fortnite for quite some time now, but only started t
 
 Without revealing the identities of those who have seen and talked about his clips, here are some quotes:
 
-`"Wow, this is insane dude. I couldn't dream about hitting a shot like that"`
-`"How were you able to do that with that just a pistol? Jesus"`
-`"I didn't think anyone in the community was going to eclipse Ninjas skill level in this game, but after some of these clips, I would be terrified if I were him."`
+`"Wow, this is insane dude. I couldn't dream about hitting a shot like that"`<br>
+`"How were you able to do that with that just a pistol? Jesus"`<br>
+`"I didn't think anyone in the community was going to eclipse Ninjas skill level in this game, but after some of these clips, I would be terrified if I were him."`<br>
 
 And the list of compliments goes on.
 
