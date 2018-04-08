@@ -3,7 +3,7 @@ layout: post
 title: 'Gucci_grem, the up and coming Fortnite god'
 author: cenz
 description: 'The potential witnessing of videogame history.'
-date: 2018-08-08
+date: 2018-04-08
 category: etc
 permalink: /etc/gucci_grem.html
 ---
