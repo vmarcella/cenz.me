@@ -7,7 +7,7 @@ date: 2018-08-08
 category: etc
 permalink: /etc/gucci_grem.html
 ---
-
+[logo]: {{site.url}}/assets/images/nite1.png "nite1"
 If you're a sports fan, then you most likely have heard the term, "The G.O.A.T." thrown around to describe athletes with exceptional talent & skill. But what exactly does "The G.O.A.T" mean and why is it relevant to this article?
 
 When we refer to someone as the G.O.A.T., we aren't talking about the animal, rather the *greatest of all time*. The reason I bring up this term up is because we might be lucky and privileged enough to get to witness one in the notorious videogame, *Fortnite*.
@@ -19,7 +19,9 @@ Gucci_grem has been playing Fortnite for quite some time now, but only started t
 Without revealing the identities of those who have seen and talked about his clips, here are some quotes:
 
 `"Wow, this is insane dude. I couldn't dream about hitting a shot like that"`<br>
+
 `"How were you able to do that with that just a pistol? Jesus"`<br>
+
 `"I didn't think anyone in the community was going to eclipse Ninjas skill level in this game, but after some of these clips, I would be terrified if I were him."`<br>
 
 And the list of compliments goes on.
