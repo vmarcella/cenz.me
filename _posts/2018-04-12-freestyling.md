@@ -14,13 +14,13 @@ In a recent study done by *Harvard University*, Researchers found that freestyli
 
 `"When I had first looked at the results, I couldn't believe my what I was seeing. Not only did students who had freestyle done better on homework, but even on exams as well!"`
 
--One researcher from the team said.
+***One researcher from the team said.***
 
 But it gets stranger. The style or "flow" in which you used didn't seem to have an effect on the overall results, however, the type of beat you used did. Researchers found that the patients that yielded the best results all had one thing in common, they used a nearly identical set of beats.
 
 `"In our research, we found that students & other participants of the study yielded the best results from listening to Drake, Travis Scott, and Young thug type beats. The disparity in results they had over participants that didn't frequently use these beats averaged around 14%."`
 
--Lead researcher of the team concluded.
+***Lead researcher of the team concluded.***
 
 This is ground breaking research that could potentially lead to many other discoveries in the future. While there is still a lot of more work to be done, the primary takeaway from this research is that maybe we should all freestyle a for a while, and stress a little less. I look forward to the future work to be done by the Harvard research team.
 
